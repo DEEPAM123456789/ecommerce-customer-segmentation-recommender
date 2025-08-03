@@ -6,7 +6,7 @@ This project performs intelligent **customer segmentation** using **RFM analysis
 
 ## Demo
 
-[Click here to launch the app]([https://your-app-name.streamlit.app](https://ecommerce-customer-segmentation-recommender.streamlit.app/)) (hosted on Streamlit Cloud)
+[Click here to launch the app](https://ecommerce-customer-segmentation-recommender.streamlit.app/) (hosted on Streamlit Cloud)
 
 ---
 
